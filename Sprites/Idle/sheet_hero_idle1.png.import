@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/sheet_hero_idle1.png-49844a3fc4e9f8914867fb1098f058e2.res"
+
+[deps]
+
+source_file="res://Sprites/Idle/sheet_hero_idle1.png"
+dest_files=[ "res://.import/sheet_hero_idle1.png-49844a3fc4e9f8914867fb1098f058e2.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5
